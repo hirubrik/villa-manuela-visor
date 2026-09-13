@@ -1,0 +1,494 @@
+{
+  "version": "V70",
+  "source": "/Users/gorkanelson/Documents/Hirubrik/Villa Manuela/Planos/VILLA MANUELA - PLANTA PARCELA REFORMADO 1.pdf",
+  "source_curve": 0,
+  "source_pdf_points": [
+    [
+      871.86,
+      386.6
+    ],
+    [
+      844.9200000000001,
+      463.88
+    ],
+    [
+      820.8,
+      525.62
+    ],
+    [
+      792.6600000000001,
+      600.8
+    ],
+    [
+      778.74,
+      636.9200000000001
+    ],
+    [
+      755.88,
+      699.8
+    ],
+    [
+      740.4000000000001,
+      733.52
+    ],
+    [
+      738.36,
+      738.2
+    ],
+    [
+      649.74,
+      699.86
+    ],
+    [
+      544.8000000000001,
+      652.16
+    ],
+    [
+      337.38,
+      559.64
+    ],
+    [
+      243.36,
+      515.6
+    ],
+    [
+      238.86,
+      513.5
+    ],
+    [
+      279.96000000000004,
+      418.22
+    ],
+    [
+      328.26,
+      311.9
+    ],
+    [
+      361.14,
+      238.64
+    ],
+    [
+      375.96000000000004,
+      205.51999999999998
+    ],
+    [
+      427.62,
+      88.04000000000008
+    ],
+    [
+      452.46000000000004,
+      27.800000000000068
+    ],
+    [
+      459.84000000000003,
+      30.32000000000005
+    ],
+    [
+      459.6600000000001,
+      30.980000000000018
+    ],
+    [
+      546.4200000000001,
+      83.42000000000007
+    ],
+    [
+      700.1400000000001,
+      168.20000000000005
+    ],
+    [
+      756.72,
+      201.14
+    ],
+    [
+      909.78,
+      282.14
+    ],
+    [
+      871.86,
+      386.6
+    ]
+  ],
+  "points_per_metre": 14.173830968159512,
+  "nominal_points_per_metre": 14.173228346456694,
+  "rotation_pdf_to_model": [
+    [
+      0.3565374485192556,
+      -0.93428103256107
+    ],
+    [
+      -0.93428103256107,
+      -0.35653744851925556
+    ]
+  ],
+  "pdf_anchor": [
+    470.76,
+    117.38
+  ],
+  "model_anchor": [
+    7.3025,
+    6.52639
+  ],
+  "parcel": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.3538611650795138,
+          -26.68461238235193
+        ],
+        [
+          -6.125508734688623,
+          -26.85278731048023
+        ],
+        [
+          -10.801886938824337,
+          -26.815942195354516
+        ],
+        [
+          -16.46529664150802,
+          -26.85219330661466
+        ],
+        [
+          -19.19633190405994,
+          -26.843228945954507
+        ],
+        [
+          -23.916159419350038,
+          -26.918114159481398
+        ],
+        [
+          -26.528237706738054,
+          -26.745949864206693
+        ],
+        [
+          -26.888039628943943,
+          -26.729205058381957
+        ],
+        [
+          -26.59002661396557,
+          -19.923308254723626
+        ],
+        [
+          -26.085564170352775,
+          -11.806216403566424
+        ],
+        [
+          -25.204596731927943,
+          4.193368819387999
+        ],
+        [
+          -24.666697995775657,
+          11.498592943111618
+        ],
+        [
+          -24.64147040199068,
+          11.848039278371424
+        ],
+        [
+          -17.327146832769934,
+          11.535628162894412
+        ],
+        [
+          -9.10399824244159,
+          11.026329557432788
+        ],
+        [
+          -3.4479141581294837,
+          10.70184234699412
+        ],
+        [
+          -0.8919874741680349,
+          10.558089778463106
+        ],
+        [
+          8.151302274645953,
+          10.10803935071407
+        ],
+        [
+          12.746917939107018,
+          9.986002834693611
+        ],
+        [
+          12.766450990449322,
+          9.436153721346862
+        ],
+        [
+          12.718418653690609,
+          9.431416531358312
+        ],
+        [
+          11.444203633450591,
+          2.3934430710115153
+        ],
+        [
+          9.72262183887695,
+          -9.87176071202218
+        ],
+        [
+          8.974600474775777,
+          -14.429876617429983
+        ],
+        [
+          7.48557878300447,
+          -26.556491402097187
+        ],
+        [
+          -0.3538611650795138,
+          -26.68461238235193
+        ]
+      ]
+    ]
+  },
+  "measurements": {
+    "area": 1351.5199999999998,
+    "south_polyline": 38.64434791790563,
+    "south_chord": 38.64260412949759,
+    "east_polyline": 34.3840418628731,
+    "east_chord": 34.37405231766115,
+    "annex_sections": [
+      {
+        "x": 4.05977,
+        "house_to_wall": 3.188277977707636,
+        "annex_to_wall": 0.6447479777076364,
+        "house_to_parcel": 3.780590725573842
+      },
+      {
+        "x": 5.65,
+        "house_to_wall": 3.1070798296127817,
+        "annex_to_wall": 0.5635498296127821,
+        "house_to_parcel": 3.7015487955291557
+      },
+      {
+        "x": 7.25382,
+        "house_to_wall": 3.0227967450377404,
+        "annex_to_wall": 0.4792667450377408,
+        "house_to_parcel": 3.6218313783981317
+      }
+    ],
+    "west_north": 3.020271402636321,
+    "west_south": 4.885382415759365,
+    "north_west": 3.5841382478690207,
+    "north_east_alignment": 2.8436953001535734,
+    "annex_wall_min_perpendicular": 0.47862315218138934,
+    "annex_closed_xy_bounds": [
+      4.05977,
+      6.52639,
+      7.25382,
+      9.06992
+    ],
+    "annex_all_wall_min": 0.26723178595596647,
+    "annex_wall_overlap_area": 0.0
+  },
+  "site_indices": [
+    7841,
+    7865,
+    7866,
+    7867,
+    7868,
+    7869,
+    7870,
+    7871,
+    7872,
+    7873,
+    7874,
+    7875,
+    7876,
+    7877,
+    7878,
+    7879,
+    7880,
+    7881,
+    7882,
+    7883,
+    7884,
+    7885,
+    7886,
+    7887,
+    7888,
+    7889,
+    7890,
+    7891,
+    7892,
+    7893,
+    7894,
+    7895,
+    7896,
+    7897,
+    7898,
+    8338,
+    8339,
+    8340,
+    8341
+  ],
+  "building_unchanged": true,
+  "annex_unchanged": true,
+  "site_z_unchanged": true,
+  "mapping_min_jacobian": -4.679840301093272e-12,
+  "mesh_flips": [],
+  "registration_note": "Registro rígido con esquina noroeste fija y orientación entre esquinas homólogas oeste; escala uniforme calibrada a la superficie indicada. La vivienda no se transforma.",
+  "boundary_mesh_max_deviation_m": 0.003957922801936461,
+  "boundary_mesh_edges_checked": 3214,
+  "all_non_site_objects_identical": true,
+  "states_membership_identical": true,
+  "annex_and_wall_no_overlap": true,
+  "tolerance_lengths_m": 0.02,
+  "tolerance_setbacks_m": 0.05,
+  "manual_browser_check": false,
+  "visual_validation": "Renders OpenGL ES con llamadas y shaders del visor; no revisión manual en navegador.",
+  "viewer_tests": {
+    "actual": {
+      "visible": 4376,
+      "interior": 313,
+      "annex": 47,
+      "spawns": {
+        "Hall": [
+          5.45059570073156,
+          2.5152490632963183,
+          0
+        ],
+        "Salón": [
+          1,
+          0,
+          0
+        ],
+        "Comedor": [
+          -3.3,
+          0,
+          0
+        ],
+        "Cocina": [
+          -1,
+          4.2,
+          0
+        ],
+        "Escalera / doble altura": [
+          2.7,
+          3.65,
+          0
+        ],
+        "Planta primera": [
+          4.2,
+          3.55,
+          3.5799999999999996
+        ],
+        "Planta segunda": [
+          3.8,
+          3.55,
+          6.949999999999999
+        ],
+        "Semisótano": [
+          3.9,
+          3.95,
+          -2.87
+        ]
+      },
+      "doors": 21
+    },
+    "reformado": {
+      "visible": 7831,
+      "interior": 3817,
+      "annex": 0,
+      "spawns": {
+        "Hall": [
+          4.25,
+          2.85,
+          0
+        ],
+        "Salón": [
+          -1,
+          0,
+          0.01
+        ],
+        "Comedor": [
+          -2.21731656763491,
+          -3.376120467488713,
+          0
+        ],
+        "Cocina": [
+          -3.3,
+          2.6,
+          0
+        ],
+        "Escalera / doble altura": [
+          3.7,
+          -1,
+          0
+        ],
+        "Planta primera": [
+          3.2455482026150753,
+          -1.6583870927149251,
+          3.5800000000000005
+        ],
+        "Planta segunda": [
+          3.3198062264195163,
+          -1.0867767478235115,
+          6.95
+        ],
+        "Semisótano": [
+          2.5,
+          4.3,
+          -2.87
+        ]
+      },
+      "doors": 31
+    },
+    "stairs": {
+      "actual_escalera_0_1": {
+        "passed": true,
+        "failures": []
+      },
+      "actual_escalera_1_2": {
+        "passed": true,
+        "failures": []
+      },
+      "actual_escalera_3_0": {
+        "passed": true,
+        "failures": []
+      },
+      "reformado_escalera_3_0": {
+        "passed": true,
+        "failures": []
+      }
+    },
+    "connections": {
+      "actual_PB": {
+        "passed": true,
+        "failures": []
+      },
+      "actual_P1": {
+        "passed": true,
+        "failures": []
+      },
+      "actual_P2": {
+        "passed": true,
+        "failures": []
+      },
+      "actual_SS": {
+        "passed": true,
+        "failures": []
+      },
+      "reformado_PB": {
+        "passed": true,
+        "failures": []
+      }
+    }
+  },
+  "variants_tests": {
+    "all_options_selectable": true,
+    "no_geometry_change": true,
+    "defaults": {
+      "extension": "ninguna",
+      "access": "actual",
+      "garage": "ninguno",
+      "pool": "sin"
+    },
+    "defaultVilla": "actual"
+  },
+  "visual_renders_reviewed": [
+    "parcela",
+    "norte",
+    "anexo-paso",
+    "cenital"
+  ],
+  "status": "Dimensiones principales y retranqueos comprobados dentro de las tolerancias documentadas. Sin ampliaciones futuras."
+}
