@@ -1,0 +1,2188 @@
+[
+  {
+    "index": 0,
+    "name": "fachada_sur_mirador_baja_conservado_superior_v22",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1,
+    "name": "fachada_sur_mirador_baja_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 2,
+    "name": "fachada_sur_basamento_mirador",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 4,
+    "name": "fachada_norte_ala_este_conservado_superior_v22",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 5,
+    "name": "fachada_norte_ala_este_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6,
+    "name": "fachada_norte_escalera_conservado_superior_v22",
+    "levels": [
+      3,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 7,
+    "name": "fachada_norte_escalera_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8,
+    "name": "fachada_este_acceso_v09_0",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 10,
+    "name": "fachada_oeste_central_conservado_inferior_v22",
+    "levels": [
+      3,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 11,
+    "name": "fachada_oeste_central_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 12,
+    "name": "fachada_oeste_central_PB_cotas_v22_1",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 222,
+    "name": "ornamento_sur_mirador_primera_2861",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 228,
+    "name": "ornamento_sur_mirador_primera_2867",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 233,
+    "name": "ornamento_sur_mirador_primera_2874",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 238,
+    "name": "ornamento_sur_mirador_primera_2881",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 243,
+    "name": "ornamento_sur_mirador_primera_2888",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 248,
+    "name": "ornamento_sur_mirador_primera_2895",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 253,
+    "name": "ornamento_sur_mirador_primera_2902",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 258,
+    "name": "ornamento_sur_mirador_primera_2909",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 263,
+    "name": "ornamento_sur_mirador_primera_2916",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 268,
+    "name": "ornamento_sur_mirador_primera_2923",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 475,
+    "name": "ornamento_sur_lateral_4307",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 482,
+    "name": "ornamento_sur_lateral_4314",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 483,
+    "name": "ornamento_sur_lateral_4315",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 485,
+    "name": "ornamento_sur_lateral_4317",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 493,
+    "name": "ornamento_sur_lateral_4325",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 497,
+    "name": "ornamento_sur_lateral_4329",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 498,
+    "name": "ornamento_sur_lateral_4330",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 500,
+    "name": "ornamento_sur_lateral_4332",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 516,
+    "name": "ornamento_sur_lateral_6488",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 518,
+    "name": "ornamento_sur_lateral_6490",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 542,
+    "name": "ornamento_norte_ala_este_4672",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 547,
+    "name": "ornamento_norte_ala_este_4677",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 552,
+    "name": "ornamento_norte_ala_este_4682",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 557,
+    "name": "ornamento_norte_ala_este_4687",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 562,
+    "name": "ornamento_norte_ala_este_4692",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 578,
+    "name": "ornamento_norte_ala_este_6153",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 581,
+    "name": "ornamento_norte_ala_este_6156",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 585,
+    "name": "ornamento_norte_ala_este_6161",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 586,
+    "name": "ornamento_norte_ala_este_6162",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 590,
+    "name": "ornamento_norte_ala_este_6166",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 602,
+    "name": "ornamento_norte_ala_este_6182",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 605,
+    "name": "ornamento_norte_ala_este_6185",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 609,
+    "name": "ornamento_norte_ala_este_6190",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 613,
+    "name": "ornamento_norte_ala_este_6194",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 618,
+    "name": "ornamento_norte_ala_este_6199",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 621,
+    "name": "bandas_norte_escalera",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 622,
+    "name": "bandas_norte_escalera",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 623,
+    "name": "bandas_norte_escalera",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 723,
+    "name": "ornamento_norte_escalera_6646",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 725,
+    "name": "ornamento_norte_escalera_6648",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 726,
+    "name": "ornamento_norte_escalera_6649",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 729,
+    "name": "ornamento_norte_escalera_6652",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 730,
+    "name": "ornamento_norte_escalera_6653",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 731,
+    "name": "ornamento_norte_escalera_6654",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 735,
+    "name": "ornamento_norte_escalera_6658",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 736,
+    "name": "ornamento_norte_escalera_6659",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 737,
+    "name": "ornamento_norte_escalera_6660",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 919,
+    "name": "ornamento_norte_torreon_6267",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 925,
+    "name": "ornamento_norte_torreon_6273",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 942,
+    "name": "bandas_este_cuerpo",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 954,
+    "name": "ornamento_este_cuerpo_24",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 956,
+    "name": "ornamento_este_cuerpo_41",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 964,
+    "name": "ornamento_este_cuerpo_49",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 972,
+    "name": "ornamento_este_cuerpo_57",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 980,
+    "name": "ornamento_este_cuerpo_68",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 990,
+    "name": "ornamento_este_cuerpo_80",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 992,
+    "name": "ornamento_este_cuerpo_85",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1002,
+    "name": "ornamento_este_cuerpo_98",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1004,
+    "name": "ornamento_este_cuerpo_103",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1014,
+    "name": "ornamento_este_cuerpo_115",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1016,
+    "name": "ornamento_este_cuerpo_119",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1026,
+    "name": "ornamento_este_cuerpo_130",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1028,
+    "name": "ornamento_este_cuerpo_133",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1036,
+    "name": "ornamento_este_cuerpo_141",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1044,
+    "name": "ornamento_este_cuerpo_149",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1052,
+    "name": "ornamento_este_cuerpo_157",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1060,
+    "name": "ornamento_este_cuerpo_165",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1068,
+    "name": "ornamento_este_cuerpo_173",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1076,
+    "name": "ornamento_este_cuerpo_181",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1084,
+    "name": "ornamento_este_cuerpo_189",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1092,
+    "name": "ornamento_este_cuerpo_197",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1100,
+    "name": "ornamento_este_cuerpo_205",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1108,
+    "name": "ornamento_este_cuerpo_213",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1122,
+    "name": "ornamento_este_cuerpo_563",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1124,
+    "name": "ornamento_este_cuerpo_626",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1145,
+    "name": "ornamento_este_cuerpo_1077",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1147,
+    "name": "ornamento_este_cuerpo_1079",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1155,
+    "name": "ornamento_este_cuerpo_1090",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1180,
+    "name": "ornamento_este_cuerpo_1116",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1203,
+    "name": "ornamento_este_cuerpo_1139",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1231,
+    "name": "ornamento_este_cuerpo_1167",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1232,
+    "name": "ornamento_este_cuerpo_1168",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1242,
+    "name": "ornamento_este_cuerpo_1194",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1251,
+    "name": "ornamento_este_cuerpo_1203",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1253,
+    "name": "ornamento_este_cuerpo_1205",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1258,
+    "name": "ornamento_este_cuerpo_6332",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1265,
+    "name": "ornamento_este_cuerpo_6340",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1386,
+    "name": "ornamento_oeste_central_1251",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1387,
+    "name": "ornamento_oeste_central_1252",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1401,
+    "name": "ornamento_oeste_central_1289",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1404,
+    "name": "ornamento_oeste_central_1292",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1407,
+    "name": "ornamento_oeste_central_1295",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1412,
+    "name": "ornamento_oeste_central_1300",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1413,
+    "name": "ornamento_oeste_central_1301",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1418,
+    "name": "ornamento_oeste_central_1306",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1419,
+    "name": "ornamento_oeste_central_1307",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1426,
+    "name": "ornamento_oeste_central_1315",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1427,
+    "name": "ornamento_oeste_central_1316",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1432,
+    "name": "ornamento_oeste_central_1321",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1433,
+    "name": "ornamento_oeste_central_1322",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1438,
+    "name": "ornamento_oeste_central_1327",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1439,
+    "name": "ornamento_oeste_central_1328",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1442,
+    "name": "ornamento_oeste_central_1331",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1445,
+    "name": "ornamento_oeste_central_1334",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1450,
+    "name": "bandas_oeste_ala_jardin",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1455,
+    "name": "ornamento_oeste_ala_jardin_1337",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1458,
+    "name": "ornamento_oeste_ala_jardin_1340",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1461,
+    "name": "ornamento_oeste_ala_jardin_1343",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 1464,
+    "name": "ornamento_oeste_ala_jardin_2440",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1491,
+    "name": "ornamento_oeste_ala_jardin_2803",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1492,
+    "name": "ornamento_oeste_ala_jardin_2804",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1493,
+    "name": "ornamento_oeste_ala_jardin_2805",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1494,
+    "name": "ornamento_oeste_ala_jardin_2806",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1499,
+    "name": "ornamento_oeste_ala_jardin_2811",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1519,
+    "name": "ornamento_oeste_ala_jardin_6445",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1639,
+    "name": "pilastra_chimenea_oeste_0",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1640,
+    "name": "retorno_mirador_este_0",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1705,
+    "name": "terraza_segunda_0",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 1720,
+    "name": "escalinata_peldaño_0",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 1721,
+    "name": "escalinata_peldaño_0",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 1895,
+    "name": "reformado_P1_muros_interiores_1_limpio_v20_3065_0",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 2007,
+    "name": "escalera_exterior_lateral_v07_0",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 2297,
+    "name": "solarium_basamento_este",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 3923,
+    "name": "volumen_chimenea_superior_conservado_v25",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 4293,
+    "name": "fachada_este_cuerpo_conservado_superior_v22_primera_0_v26",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 4616,
+    "name": "P126_acceso_suite_este_dintel_324",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 5934,
+    "name": "fachada_este_PB_puertas_v30_2",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6068,
+    "name": "C34_V10_1_marco_montantes_104",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6073,
+    "name": "C34_V10_1_junquillo_fijo_109",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6074,
+    "name": "C34_V10_1_vidrio_110",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6075,
+    "name": "C34_V10_2_marco_montantes_111",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6078,
+    "name": "C34_V10_2_junquillo_fijo_114",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6079,
+    "name": "C34_V10_2_vidrio_115",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6209,
+    "name": "C34_V21_1_marco_montantes_245",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6210,
+    "name": "C34_V21_1_junquillo_fijo_246",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6211,
+    "name": "C34_V21_1_vidrio_247",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6212,
+    "name": "C34_V21_2_marco_montantes_248",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6213,
+    "name": "C34_V21_2_junquillo_fijo_249",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6214,
+    "name": "C34_V21_2_vidrio_250",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6215,
+    "name": "C34_V23_marco_montantes_251",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6216,
+    "name": "C34_V23_junquillo_fijo_252",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6217,
+    "name": "C34_V23_vidrio_253",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6220,
+    "name": "C34_V23_junquillo_fijo_256",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6221,
+    "name": "C34_V23_vidrio_257",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6226,
+    "name": "C34_V23_junquillo_fijo_262",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6227,
+    "name": "C34_V23_vidrio_263",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6330,
+    "name": "C34_V34_marco_montantes_366",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 6333,
+    "name": "C34_V34_junquillo_fijo_369",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 6334,
+    "name": "C34_V34_vidrio_370",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 6395,
+    "name": "C34_V15_rebaje_hueco_442",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6396,
+    "name": "C34_V16_rebaje_hueco_443",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 6397,
+    "name": "C34_V21_1_rebaje_hueco_445",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 7015,
+    "name": "V93_P1_E_remate_vestidor_frente",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 7021,
+    "name": "V93_encuentro_terraza_P2_cubierta_habitacion_E",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 7022,
+    "name": "V93_junta_escalonada_comedor_terraza_P2",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 7996,
+    "name": "fachada_sur_mirador_baja_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 7997,
+    "name": "fachada_sur_basamento_mirador_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 7999,
+    "name": "fachada_sur_central_conservado_superior_v22",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8000,
+    "name": "fachada_sur_lateral_conservado_superior_v22",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8002,
+    "name": "fachada_norte_ala_este_conservado_superior_v22",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8003,
+    "name": "fachada_norte_ala_este_PB_cotas_v22_0_encuentro_v69",
+    "levels": [
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8004,
+    "name": "fachada_norte_escalera_conservado_superior_v22",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8005,
+    "name": "fachada_norte_escalera_PB_cotas_v22_0_encuentro_v69",
+    "levels": [
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8021,
+    "name": "fachada_oeste_central_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8022,
+    "name": "fachada_oeste_central_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8023,
+    "name": "fachada_oeste_central_PB_cotas_v22_1",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8025,
+    "name": "fachada_oeste_retranqueo_v08_1",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8026,
+    "name": "fachada_oeste_retranqueo_v08_2_conservado_inferior_v22_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8027,
+    "name": "fachada_oeste_retranqueo_v08_2_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8028,
+    "name": "fachada_oeste_retranqueo_v08_3_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8029,
+    "name": "fachada_oeste_retranqueo_v08_3_PB_cotas_v22_1",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8030,
+    "name": "fachada_oeste_retranqueo_v08_4",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8032,
+    "name": "fachada_oeste_retranqueo_v08_6_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8033,
+    "name": "fachada_oeste_retranqueo_v08_6_PB_cotas_v22_1",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8034,
+    "name": "fachada_oeste_retranqueo_v08_7",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8036,
+    "name": "fachada_oeste_retranqueo_v08_10",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8039,
+    "name": "fachada_oeste_retranqueo_v08_13",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8042,
+    "name": "fachada_oeste_retranqueo_v08_16_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8044,
+    "name": "fachada_oeste_retranqueo_v08_19_PB_cotas_v22_1",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8045,
+    "name": "fachada_oeste_retranqueo_v08_20",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8048,
+    "name": "fachada_oeste_retranqueo_v08_23",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8050,
+    "name": "fachada_oeste_retranqueo_v08_25_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8054,
+    "name": "fachada_oeste_retranqueo_v08_27_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8055,
+    "name": "fachada_oeste_retranqueo_v08_27_PB_cotas_v22_1",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8060,
+    "name": "fachada_oeste_retranqueo_v08_32_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8064,
+    "name": "fachada_oeste_retranqueo_v08_34_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8068,
+    "name": "fachada_oeste_retranqueo_v08_37_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8071,
+    "name": "fachada_oeste_retranqueo_v08_38_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8075,
+    "name": "fachada_oeste_retranqueo_v08_41_conservado_inferior_v22",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8078,
+    "name": "fachada_oeste_retranqueo_v08_42_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8080,
+    "name": "fachada_oeste_retranqueo_v08_44_conservado_inferior_v22_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8083,
+    "name": "fachada_oeste_retranqueo_v08_45_PB_cotas_v22_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8085,
+    "name": "fachada_oeste_retranqueo_v08_47_conservado_inferior_v22_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8087,
+    "name": "fachada_oeste_retranqueo_v08_48_conservado_inferior_v22_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8088,
+    "name": "fachada_oeste_retranqueo_v08_49_conservado_inferior_v22_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8136,
+    "name": "retorno_mirador_este_0",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8137,
+    "name": "retorno_jardin_lateral_0",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8138,
+    "name": "retorno_calle_este_0",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8139,
+    "name": "retorno_oeste_retranqueo_0",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8186,
+    "name": "solarium_cubierta",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8187,
+    "name": "solarium_cubierta",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8190,
+    "name": "solarium_lado_jardin",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8192,
+    "name": "solarium_lado_calle",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8218,
+    "name": "escalinata_muro_curvo",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8219,
+    "name": "escalinata_muro_curvo",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8226,
+    "name": "cierre_bajo_hastial_este_v07",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8381,
+    "name": "retorno_calle_torre_v09_0",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8382,
+    "name": "retorno_calle_torre_v09_1",
+    "levels": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8404,
+    "name": "fachada_norte_esquina_v11_2_conservado_inferior_v22_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8405,
+    "name": "fachada_norte_esquina_v11_2_conservado_superior_v22",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8407,
+    "name": "fachada_norte_esquina_v11_4",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8408,
+    "name": "fachada_norte_esquina_v11_5_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8409,
+    "name": "fachada_norte_esquina_v11_6_conservado_superior_v22",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8410,
+    "name": "fachada_norte_esquina_v11_7_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8411,
+    "name": "fachada_oeste_pano_continuo_v32_encuentro_v69",
+    "levels": [
+      3,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8494,
+    "name": "fachada_lateral_acceso_v16_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8495,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_0_0_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8496,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_0_1_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8497,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_1_0_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8498,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_2_0_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8499,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_2_1_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8501,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_0_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8502,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_1_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8503,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_1_1_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8504,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_1_2_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8506,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_1_4_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8507,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_1_5_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8509,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_2_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8510,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_2_1_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8511,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_4_2_2_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8513,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_6_0_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8514,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_6_1_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8517,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_8_0_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8518,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_8_0_1_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8522,
+    "name": "fachada_acceso_paves_v16_2_fachada_acceso_paves_v16_1_fachada_acceso_paves_v16_0_fachada_norte_porche_calle_8_2_0_encuentro_v69",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8596,
+    "name": "fachada_oeste_central_conservado_superior_v22_inferior_v27",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8600,
+    "name": "fachada_este_PB_puertas_v30_2",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8601,
+    "name": "fachada_este_PB_puertas_v30_3_encuentro_v69",
+    "levels": [
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8602,
+    "name": "fachada_este_PB_puertas_v30_4",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8603,
+    "name": "fachada_este_PB_puertas_v30_5",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8625,
+    "name": "C34_V04_rebaje_hueco_434",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8632,
+    "name": "C34_V14_rebaje_hueco_441",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8633,
+    "name": "C34_V15_rebaje_hueco_442",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8634,
+    "name": "C34_V16_rebaje_hueco_443",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8635,
+    "name": "C34_V21_1_rebaje_hueco_444",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8636,
+    "name": "C34_V21_1_rebaje_hueco_445",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8640,
+    "name": "C34_V21_1_rebaje_hueco_449",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8641,
+    "name": "C34_V21_1_rebaje_hueco_450",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8642,
+    "name": "C34_V29_2_rebaje_hueco_451",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8659,
+    "name": "C34_V29_2_rebaje_hueco_468",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8666,
+    "name": "C34_V10_1_recomposicion_antepecho_475",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8667,
+    "name": "C34_V10_1_recomposicion_antepecho_476",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8668,
+    "name": "C34_V10_2_recomposicion_antepecho_477",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8669,
+    "name": "C34_V10_2_recomposicion_antepecho_478",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8680,
+    "name": "C34_V23_recomposicion_antepecho_489",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8681,
+    "name": "C34_V23_recomposicion_antepecho_490",
+    "levels": [
+      0,
+      1
+    ]
+  },
+  {
+    "index": 8693,
+    "name": "C34_V34_recomposicion_antepecho_502",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8694,
+    "name": "C34_V34_recomposicion_antepecho_503",
+    "levels": [
+      1,
+      2
+    ]
+  },
+  {
+    "index": 8984,
+    "name": "ACT64_anexo_fachada_sur_anexo_oeste",
+    "levels": [
+      3,
+      0
+    ]
+  },
+  {
+    "index": 8986,
+    "name": "ACT64_anexo_fachada_oeste_anexo",
+    "levels": [
+      3,
+      0
+    ]
+  }
+]

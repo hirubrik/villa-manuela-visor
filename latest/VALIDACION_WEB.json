@@ -1,0 +1,162 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Initial full interface",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Night",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Night parcel",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Day parcel",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Day environment roundtrip",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Actual",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Actual parcel",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Reformed parcel",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Hide floor 3",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Hide floor 0",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Hide floor 1",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Hide floor 2",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Hide floor 4",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Separated floors",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Hide West facade",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Night with facade hidden",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Vertical format",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Focal 35 mm",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Camera height",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Clean capture",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Walk",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Walk Actual",
+      "state_identical": true,
+      "pixels_identical": true
+    },
+    {
+      "name": "Pan",
+      "state_identical": true,
+      "pixels_identical": true
+    }
+  ],
+  "loads": 1,
+  "errors": [],
+  "failed": [],
+  "assets": {
+    "geometry-07.json": 4197737,
+    "geometry-06.json": 2557570,
+    "geometry-01.json": 4194068,
+    "viewer.js": 411706,
+    "geometry-03.json": 3408649,
+    "geometry-02.json": 3679684,
+    "viewer.css": 7769,
+    "geometry-05.json": 3184469,
+    "geometry-09.json": 2213014,
+    "geometry-08.json": 4177800,
+    "geometry-04.json": 3200950,
+    "load-viewer.js": 1476
+  },
+  "geometryIdentical": true,
+  "original_bytes": 31240946,
+  "html_bytes": 7609,
+  "geometry_records": 9063,
+  "geometry_sha256": "70a57d69945926a219e6f8136b67e8e63c9ac1a2ee9d7199d8673f1bff1d3ded",
+  "runtime_sha256": "6b58104705b930749ada9f1e6cc93b66cd98ab74d3f11c571c138017a42d2ff4",
+  "original_document_reconstructed_byte_identically": true,
+  "files_over_25_MiB": [],
+  "largest_latest_asset_bytes": 4197737,
+  "checked_scope": "Repositorio web completo, excluyendo metadatos .git",
+  "checksums": {
+    "index.html": "abe80ffc3ea85146271f1a9836126c81fa610233c34531e117aefe96b74181e3",
+    "assets/geometry-01.json": "6cdba90516c0b1a64def55da8a0baba66c1cca0667fc2e8e5a68295ad6c686b0",
+    "assets/geometry-02.json": "c8b3475ea426a7e313e3a68ed7431a4376120470f4f000524ad7209041265aa6",
+    "assets/geometry-03.json": "e5ac21ed59a3b94a5753f4c9e3a397ff8523fa948cb1a8e7eaf9aeac34da8161",
+    "assets/geometry-04.json": "a0cb57531e2bc02df32691dd6bf6cf7c49de6491d1ea04695862a0c7aaeeb8fc",
+    "assets/geometry-05.json": "38a5b5e8073e666d8b96294610084f1021ef735567e1853d2b744ad1d864ad7b",
+    "assets/geometry-06.json": "04d2834cd644cf2043f2cfaed324b4aed1dac06de5bc1eb10ceb5515d84f5833",
+    "assets/geometry-07.json": "21c4dcb846d1342f08050acb3be6af790237dec61454d9e6f3cf3701cbf6a566",
+    "assets/geometry-08.json": "4304c341877de6bd1b0e77805c21cdbc52e3b80aeba4c93cea4007b6a9934432",
+    "assets/geometry-09.json": "532854e957605972dd480e025542d7990316d75ec7dbf796f0bdda93fd750cda",
+    "assets/load-viewer.js": "385e9f8fd54315c1475a076db9653db73dc6c4dcecab5704bcac965302256680",
+    "assets/viewer.css": "71aa9388890f9ab94446555662f44c5122bb7e7e6de625c3dda8ede32352d73d",
+    "assets/viewer.js": "6b58104705b930749ada9f1e6cc93b66cd98ab74d3f11c571c138017a42d2ff4"
+  }
+}

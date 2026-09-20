@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "errors": [],
+  "checks": [
+    "Recorrer conservado al cambiar versión, iluminación y contexto",
+    "Puertas históricas recuperadas",
+    "Ocultaciones conservadas al salir de Recorrer",
+    "Entrada a Recorrer en ACTUAL"
+  ],
+  "state": {
+    "version": "actual",
+    "lighting": "day",
+    "context": "parcel",
+    "visibleFloors": [
+      3,
+      0,
+      2,
+      4
+    ],
+    "hiddenFacades": [
+      "O"
+    ],
+    "separation": 0,
+    "mode": "all",
+    "terrainVisible": true,
+    "furnitureVisible": true,
+    "contoursVisible": false,
+    "camera": {
+      "yaw": -2.42,
+      "pitch": 0.38,
+      "distance": 37,
+      "target": [
+        0,
+        0,
+        4
+      ],
+      "orthographic": false,
+      "focalMM": 24,
+      "cameraHeight": 1.65,
+      "imageOrientation": "horizontal",
+      "navigationMode": "pan",
+      "walking": true,
+      "walker": {
+        "pos": [
+          3.85,
+          2.7,
+          0
+        ],
+        "angle": 3.141592653589793,
+        "pitch": 0
+      }
+    }
+  }
+}
