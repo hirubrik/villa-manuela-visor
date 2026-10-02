@@ -1,0 +1,1259 @@
+{
+  "fuentes": {
+    "master": "VILLA_MANUELA_REFORMADA_MASTER_FINAL.html",
+    "actual": "V70_TECNICA-v79.html",
+    "night": "V70_REFORMADA_ENTORNO_ILUMINACION-v105.html",
+    "master_records": 7995,
+    "actual_records": 4376,
+    "shared_reused": 3780,
+    "display_pool": 9063,
+    "night_fixtures": 29,
+    "sha256_master": "504ba8600a6945bc7dc6ccfaa13c5ad2cdd9ecd9fe6396797274b9ac0a52afa7",
+    "file": "VILLA_MANUELA_VISOR_DEFINITIVO-v112.html"
+  },
+  "MASTER_intacto": {
+    "VILLA_MANUELA_REFORMADA_MASTER_FINAL.html": {
+      "sha256": "504ba8600a6945bc7dc6ccfaa13c5ad2cdd9ecd9fe6396797274b9ac0a52afa7",
+      "intacto": true
+    },
+    "VILLA_MANUELA_REFORMADA_MASTER_FINAL.glb": {
+      "sha256": "78076b85175ecbf1a97fe21ab873a236d69e4255f90995882764bf0c2570792f",
+      "intacto": true
+    },
+    "VILLA_MANUELA_REFORMADA_MASTER_FINAL_GEOMETRIA.json": {
+      "sha256": "8e87a87cf1724e62f3e5736bfd6521fe8c024a1b76dd28c44161add102dc11d2",
+      "intacto": true
+    }
+  },
+  "geometria_MASTER_identica": true,
+  "objetos_MASTER_modificados": 0,
+  "arquitectura_modificada": false,
+  "materiales_MASTER_modificados": false,
+  "pruebas_navegador": {
+    "checks": [
+      {
+        "n": "01_reformada_dia_entorno",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "environment",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 8148,
+          "externalVisible": 446,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 974
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "lightingB conserva cámara",
+      {
+        "n": "03_reformada_noche_entorno",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "night",
+            "context": "environment",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 8177,
+          "externalVisible": 446,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 1003
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "lightingA conserva cámara",
+      "Día recuperado píxel a píxel",
+      "scopeB conserva cámara",
+      {
+        "n": "02_reformada_dia_parcela",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7702,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "lightingB conserva cámara",
+      {
+        "n": "04_reformada_noche_parcela",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "night",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7731,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 557
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "lightingA conserva cámara",
+      "scopeA conserva cámara",
+      "versionA conserva cámara",
+      {
+        "n": "05_actual_dia_entorno",
+        "a": {
+          "state": {
+            "version": "actual",
+            "lighting": "day",
+            "context": "environment",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 5078,
+          "externalVisible": 446,
+          "levels": {
+            "0": 1574,
+            "1": 1224,
+            "2": 990,
+            "3": 216,
+            "4": 233,
+            "5": 841
+          },
+          "clipBands": 3751,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "versionB conserva cámara",
+      "versionA conserva cámara",
+      "scopeB conserva cámara",
+      {
+        "n": "06_actual_parcela",
+        "a": {
+          "state": {
+            "version": "actual",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 4632,
+          "externalVisible": 0,
+          "levels": {
+            "0": 1574,
+            "1": 1224,
+            "2": 990,
+            "3": 216,
+            "4": 233,
+            "5": 395
+          },
+          "clipBands": 3751,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "versionB conserva cámara",
+      {
+        "n": "planta_oculta_3",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7375,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 0,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 2976,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "planta_oculta_0",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 4382,
+          "externalVisible": 0,
+          "levels": {
+            "0": 0,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 1804,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "planta_oculta_1",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 5439,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 0,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 2008,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "planta_oculta_2",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 6551,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 0,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 2428,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "planta_oculta_4",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7589,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 0,
+            "5": 528
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "separacion_3",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 3,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7702,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "separacion_6",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 6,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7702,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "separacion_0",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7702,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 2263,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 3072,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "08_parcela_sin_P1",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              2,
+              4
+            ],
+            "hiddenFacades": [],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 5439,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3320,
+            "1": 0,
+            "2": 1151,
+            "3": 327,
+            "4": 113,
+            "5": 528
+          },
+          "clipBands": 2008,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "fachada_oculta_N",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [
+              "N"
+            ],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 6897,
+          "externalVisible": 0,
+          "levels": {
+            "0": 2864,
+            "1": 2067,
+            "2": 1022,
+            "3": 326,
+            "4": 90,
+            "5": 528
+          },
+          "clipBands": 2316,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "fachada_oculta_S",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [
+              "S"
+            ],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 6888,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3033,
+            "1": 1851,
+            "2": 1044,
+            "3": 326,
+            "4": 106,
+            "5": 528
+          },
+          "clipBands": 2265,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "fachada_oculta_E",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [
+              "E"
+            ],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 6924,
+          "externalVisible": 0,
+          "levels": {
+            "0": 2944,
+            "1": 2024,
+            "2": 999,
+            "3": 326,
+            "4": 103,
+            "5": 528
+          },
+          "clipBands": 2304,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      {
+        "n": "fachada_oculta_O",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [
+              "O"
+            ],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7251,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3182,
+            "1": 2061,
+            "2": 1108,
+            "3": 260,
+            "4": 112,
+            "5": 528
+          },
+          "clipBands": 2622,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "lightingB conserva cámara",
+      {
+        "n": "09_noche_sin_O",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "night",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2,
+              4
+            ],
+            "hiddenFacades": [
+              "O"
+            ],
+            "separation": 0,
+            "mode": "all",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 7280,
+          "externalVisible": 0,
+          "levels": {
+            "0": 3182,
+            "1": 2061,
+            "2": 1108,
+            "3": 260,
+            "4": 112,
+            "5": 557
+          },
+          "clipBands": 2622,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "lightingA conserva cámara",
+      {
+        "n": "10_P2_sin_CUB_N",
+        "a": {
+          "state": {
+            "version": "reformado",
+            "lighting": "day",
+            "context": "parcel",
+            "visibleFloors": [
+              3,
+              0,
+              1,
+              2
+            ],
+            "hiddenFacades": [
+              "N"
+            ],
+            "separation": 0,
+            "mode": "2",
+            "terrainVisible": true,
+            "furnitureVisible": true,
+            "contoursVisible": false,
+            "camera": {
+              "yaw": -0.7266423406817256,
+              "pitch": 0.5265697293903788,
+              "distance": 41.78516483155236,
+              "target": [
+                0,
+                -3,
+                2
+              ],
+              "orthographic": false,
+              "focalMM": 24,
+              "cameraHeight": 1.65,
+              "imageOrientation": "horizontal",
+              "navigationMode": "orbit",
+              "walking": false,
+              "walker": null
+            }
+          },
+          "visible": 1550,
+          "externalVisible": 0,
+          "levels": {
+            "0": 0,
+            "1": 0,
+            "2": 1022,
+            "3": 0,
+            "4": 0,
+            "5": 528
+          },
+          "clipBands": 515,
+          "lights": 29,
+          "geometryRecords": 9063,
+          "glError": 0
+        }
+      },
+      "versionA conserva cámara",
+      "lightingB conserva cámara",
+      "scopeA conserva cámara",
+      "versionB conserva cámara",
+      "lightingA conserva cámara",
+      "scopeB conserva cámara"
+    ],
+    "errors": [],
+    "loads": 1,
+    "conflicts": 271,
+    "passed": true
+  },
+  "pruebas_recorrer": {
+    "passed": true,
+    "errors": [],
+    "checks": [
+      "Recorrer conservado al cambiar versión, iluminación y contexto",
+      "Puertas históricas recuperadas",
+      "Ocultaciones conservadas al salir de Recorrer",
+      "Entrada a Recorrer en ACTUAL"
+    ],
+    "state": {
+      "version": "actual",
+      "lighting": "day",
+      "context": "parcel",
+      "visibleFloors": [
+        3,
+        0,
+        2,
+        4
+      ],
+      "hiddenFacades": [
+        "O"
+      ],
+      "separation": 0,
+      "mode": "all",
+      "terrainVisible": true,
+      "furnitureVisible": true,
+      "contoursVisible": false,
+      "camera": {
+        "yaw": -2.42,
+        "pitch": 0.38,
+        "distance": 37,
+        "target": [
+          0,
+          0,
+          4
+        ],
+        "orthographic": false,
+        "focalMM": 24,
+        "cameraHeight": 1.65,
+        "imageOrientation": "horizontal",
+        "navigationMode": "pan",
+        "walking": true,
+        "walker": {
+          "pos": [
+            3.85,
+            2.7,
+            0
+          ],
+          "angle": 3.141592653589793,
+          "pitch": 0
+        }
+      }
+    }
+  },
+  "regresiones_detectadas": false,
+  "limitaciones": [
+    "Mallas que abarcan varios niveles: segmentación visual mediante planos de recorte GPU, sin crear tapas o modificar la geometría; inventario completo adjunto.",
+    "El sistema nocturno conserva el diseño provisional de V105; no se ha rediseñado ni recalibrado para ACTUAL.",
+    "La colisión de Recorrer utiliza el edificio físico sin separación: separar y ocultar son operaciones de visualización, no una reconstrucción del espacio transitable."
+  ]
+}

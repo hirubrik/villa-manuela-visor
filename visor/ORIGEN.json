@@ -1,0 +1,83 @@
+{
+  "version": "VILLA_MANUELA_VISOR_CLIENTES-v01",
+  "source": "VILLA_MANUELA_VISOR_CLIENTES-v01",
+  "sourceDate": "2026-09-30",
+  "integration": "iframe; archivos internos idénticos byte a byte",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 8298,
+      "sha256": "3bbcd89f35c34161f937282c063bb84f1d5e7dc789f930c4acabb3029f04b48c"
+    },
+    {
+      "path": "assets/external-indices.json",
+      "bytes": 2231,
+      "sha256": "d7c7e523ab0ab62e15eb2f1ec9061c4237c9bbaac276e334be46eb11457e60db"
+    },
+    {
+      "path": "assets/geometry-01.json",
+      "bytes": 948007,
+      "sha256": "685761a8ba9c8f54e9561daae29392fa16a7de39311c067e62c34465b909ec72"
+    },
+    {
+      "path": "assets/geometry-02.json",
+      "bytes": 744212,
+      "sha256": "d0d0edceca989d5c71d3dc1e60eed3bad10e19ad3fef352be650934eb86ca4a8"
+    },
+    {
+      "path": "assets/geometry-03.json",
+      "bytes": 817161,
+      "sha256": "b16cd8180e1309b4456dad9cca01298dcfbde78418f4b58c0031a69d653c2bc4"
+    },
+    {
+      "path": "assets/geometry-04.json",
+      "bytes": 3527892,
+      "sha256": "a5f6bfbe659e6bfa19130d61c4f4762425fd08a25afee4d4f83eb08367cbf52f"
+    },
+    {
+      "path": "assets/geometry-05.json",
+      "bytes": 1280928,
+      "sha256": "d9db4f9aa06ae3f200ef5853107711879c515a50d2cb269f364f897f16e2fa9a"
+    },
+    {
+      "path": "assets/geometry-06.json",
+      "bytes": 1214833,
+      "sha256": "9dd5d64c8d7ceac7d08c32953c83ee0c62be99446e83237ab253796a100466f1"
+    },
+    {
+      "path": "assets/geometry-07.json",
+      "bytes": 14852807,
+      "sha256": "98ee9e527824005c60b43eb1eb42647392c28b8e83a5ebb69cd03698feedb370"
+    },
+    {
+      "path": "assets/geometry-08.json",
+      "bytes": 6780985,
+      "sha256": "8b673a37c8787017e393962b613c45f34df1cfcdf7c52110d11824ac05ac0207"
+    },
+    {
+      "path": "assets/geometry-09.json",
+      "bytes": 1656242,
+      "sha256": "bdb1a25825755be8099d2964a6c3ee99ae7f144cbbb502b241914ae3d2b58d6d"
+    },
+    {
+      "path": "assets/load-viewer.js",
+      "bytes": 780,
+      "sha256": "a10daf07174da0eb1f3f7087f147dc99ca8e992cbe0062b70283f96a3965fcbc"
+    },
+    {
+      "path": "assets/night-lights.json",
+      "bytes": 18358,
+      "sha256": "e20d40058e735cfd3019cf5c09d477f1b09f3c4ce42d9abe1cee5ab58f3cfc04"
+    },
+    {
+      "path": "assets/viewer.css",
+      "bytes": 7352,
+      "sha256": "0c786acefc24bd0ec210295e0b3c6cbab84bef855a6e6364d056bb1b83036fea"
+    },
+    {
+      "path": "assets/viewer.js",
+      "bytes": 248795,
+      "sha256": "b4828e2c8feb9993a8a43aa14fe543b02788ac2a2e89c692dcfb282040069350"
+    }
+  ]
+}

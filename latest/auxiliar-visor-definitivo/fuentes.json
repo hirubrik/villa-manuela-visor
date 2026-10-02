@@ -1,0 +1,12 @@
+{
+  "master": "VILLA_MANUELA_REFORMADA_MASTER_FINAL.html",
+  "actual": "V70_TECNICA-v79.html",
+  "night": "V70_REFORMADA_ENTORNO_ILUMINACION-v105.html",
+  "master_records": 7995,
+  "actual_records": 4376,
+  "shared_reused": 3780,
+  "display_pool": 9063,
+  "night_fixtures": 29,
+  "sha256_master": "504ba8600a6945bc7dc6ccfaa13c5ad2cdd9ecd9fe6396797274b9ac0a52afa7",
+  "file": "VILLA_MANUELA_VISOR_DEFINITIVO-v112.html"
+}

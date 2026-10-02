@@ -1,0 +1,231 @@
+{
+  "viewerUrl": "./visor/",
+  "presentationId": "presentacion",
+  "images": [
+    {
+      "id": "imagen-01",
+      "label": "IMAGEN 01",
+      "section": "hero",
+      "order": 1,
+      "src": "assets/images/imagen-01.jpg",
+      "alt": "Vista exterior de Villa Manuela con jardín y piscina · imagen provisional del proyecto",
+      "width": 1412,
+      "height": 1078,
+      "title": "IMAGEN 01",
+      "download": "assets/images/imagen-01.jpg",
+      "source": "618c36fc3c7b33bd9dc04201982d079c.webp"
+    },
+    {
+      "id": "imagen-02",
+      "label": "IMAGEN 02",
+      "section": "intro",
+      "order": 2,
+      "src": "assets/images/imagen-02.jpg",
+      "alt": "Fachada de Villa Manuela y parcela ajardinada · imagen provisional del proyecto",
+      "width": 1000,
+      "height": 1100,
+      "title": "IMAGEN 02",
+      "download": "assets/images/imagen-02.jpg",
+      "source": "793e62b570cc1b5b0285db08c02aaecf.webp"
+    },
+    {
+      "id": "imagen-03",
+      "label": "IMAGEN 03",
+      "section": "gallery",
+      "order": 3,
+      "src": "assets/images/imagen-03.jpg",
+      "alt": "Villa Manuela, jardín y piscina · imagen provisional del proyecto",
+      "width": 1200,
+      "height": 800,
+      "title": "IMAGEN 03",
+      "download": "assets/images/imagen-03.jpg",
+      "source": "618c36fc3c7b33bd9dc04201982d079c.webp"
+    },
+    {
+      "id": "imagen-04",
+      "label": "IMAGEN 04",
+      "section": "gallery",
+      "order": 4,
+      "src": "assets/images/imagen-04.jpg",
+      "alt": "Salón con doble altura y escalera · imagen provisional del proyecto",
+      "width": 1200,
+      "height": 800,
+      "title": "IMAGEN 04",
+      "download": "assets/images/imagen-04.jpg",
+      "source": "9a90ceb0f3fb04fb5f68bc41b137c47f.jpg"
+    },
+    {
+      "id": "imagen-05",
+      "label": "IMAGEN 05",
+      "section": "gallery",
+      "order": 5,
+      "src": "assets/images/imagen-05.jpg",
+      "alt": "Cocina de Villa Manuela · imagen provisional del proyecto",
+      "width": 1200,
+      "height": 800,
+      "title": "IMAGEN 05",
+      "download": "assets/images/imagen-05.jpg",
+      "source": "840b6cf7fce6879ef06fe77bff477386.webp"
+    },
+    {
+      "id": "imagen-06",
+      "label": "IMAGEN 06",
+      "section": "gallery",
+      "order": 6,
+      "src": "assets/images/imagen-06.jpg",
+      "alt": "Dormitorio de Villa Manuela · imagen provisional del proyecto",
+      "width": 1200,
+      "height": 800,
+      "title": "IMAGEN 06",
+      "download": "assets/images/imagen-06.jpg",
+      "source": "d6bdbe11f1261661d1572d45629d5ab4.webp"
+    },
+    {
+      "id": "imagen-07",
+      "label": "IMAGEN 07",
+      "section": "gallery",
+      "order": 7,
+      "src": "assets/images/imagen-07.jpg",
+      "alt": "Baño de Villa Manuela · imagen provisional del proyecto",
+      "width": 1200,
+      "height": 800,
+      "title": "IMAGEN 07",
+      "download": "assets/images/imagen-07.jpg",
+      "source": "dd68c8e826d1c77e2482aa1d524caa5e.webp"
+    },
+    {
+      "id": "imagen-08",
+      "label": "IMAGEN 08",
+      "section": "gallery",
+      "order": 8,
+      "src": "assets/images/imagen-08.jpg",
+      "alt": "Porche de Villa Manuela · imagen provisional del proyecto",
+      "width": 1200,
+      "height": 800,
+      "title": "IMAGEN 08",
+      "download": "assets/images/imagen-08.jpg",
+      "source": "20b6a2c83bf3be0fa2b44dd2f1f1761c.jpg"
+    },
+    {
+      "id": "imagen-09",
+      "label": "IMAGEN 09",
+      "section": "viewer",
+      "order": 9,
+      "src": "assets/images/imagen-09.jpg",
+      "alt": "Vista elevada del modelo de Villa Manuela · imagen provisional del proyecto",
+      "width": 1420,
+      "height": 1108,
+      "title": "IMAGEN 09",
+      "download": "assets/images/imagen-09.jpg",
+      "source": "f21cb1b437e082ee214fae249419adad.webp"
+    },
+    {
+      "id": "imagen-10",
+      "label": "IMAGEN 10",
+      "section": "location",
+      "order": 10,
+      "src": "assets/images/imagen-10.jpg",
+      "alt": "Vista del entorno urbano de Villa Manuela en Donostia · imagen provisional del proyecto",
+      "width": 1648,
+      "height": 1920,
+      "title": "IMAGEN 10",
+      "download": "assets/images/imagen-10.jpg",
+      "source": "ba3de675687a81a277a6836bc6c6255e.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-01",
+      "title": "Villa Manuela · presentación general",
+      "order": 1,
+      "src": "",
+      "poster": "assets/thumbnails/video-01.jpg",
+      "duration": "",
+      "download": "",
+      "type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "label": "VIDEO 01",
+      "status": "PENDIENTE"
+    },
+    {
+      "id": "video-02",
+      "title": "Jardín y piscina",
+      "order": 2,
+      "src": "",
+      "poster": "assets/thumbnails/video-02.jpg",
+      "duration": "",
+      "download": "",
+      "type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "label": "VIDEO 02",
+      "status": "PENDIENTE"
+    },
+    {
+      "id": "video-03",
+      "title": "Espacios interiores",
+      "order": 3,
+      "src": "",
+      "poster": "assets/thumbnails/video-03.jpg",
+      "duration": "",
+      "download": "",
+      "type": "video/mp4",
+      "width": 1920,
+      "height": 1080,
+      "label": "VIDEO 03",
+      "status": "PENDIENTE"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "presentacion",
+      "title": "Presentación Villa Manuela",
+      "type": "PDF",
+      "path": "downloads/presentacion/Villa Manuela — Ategorri Enea.pdf",
+      "size": "",
+      "available": true,
+      "status": "DISPONIBLE"
+    },
+    {
+      "id": "imagenes",
+      "title": "Imágenes en alta resolución",
+      "type": "ZIP",
+      "path": "downloads/imagenes/imagenes.zip",
+      "size": "",
+      "available": false,
+      "status": "PENDIENTE"
+    },
+    {
+      "id": "videos",
+      "title": "Vídeos",
+      "type": "ZIP",
+      "path": "downloads/videos/videos.zip",
+      "size": "",
+      "available": false,
+      "status": "PENDIENTE"
+    },
+    {
+      "id": "planos",
+      "title": "Planos",
+      "type": "ZIP",
+      "path": "downloads/planos/planos.zip",
+      "size": "",
+      "available": false,
+      "status": "PENDIENTE"
+    },
+    {
+      "id": "material",
+      "title": "Material gráfico",
+      "type": "ZIP",
+      "path": "downloads/material/material-grafico.zip",
+      "size": "",
+      "available": false,
+      "status": "PENDIENTE"
+    }
+  ],
+  "presentationView": {
+    "path": "downloads/presentacion/Villa Manuela — Ategorri Enea.html",
+    "available": true
+  }
+}
