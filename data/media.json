@@ -138,29 +138,29 @@
       "id": "video-01",
       "title": "Villa Manuela · presentación general",
       "order": 1,
-      "src": "",
+      "src": "downloads/videos/VM1.mp4",
       "poster": "assets/thumbnails/video-01.jpg",
       "duration": "",
-      "download": "",
+      "download": "downloads/videos/VM1.mp4",
       "type": "video/mp4",
       "width": 1920,
       "height": 1080,
       "label": "VIDEO 01",
-      "status": "PENDIENTE"
+      "status": "DISPONIBLE"
     },
     {
       "id": "video-02",
       "title": "Jardín y piscina",
       "order": 2,
-      "src": "",
+      "src": "downloads/videos/VM2.mp4",
       "poster": "assets/thumbnails/video-02.jpg",
       "duration": "",
-      "download": "",
+      "download": "downloads/videos/VM2.mp4",
       "type": "video/mp4",
       "width": 1920,
       "height": 1080,
       "label": "VIDEO 02",
-      "status": "PENDIENTE"
+      "status": "DISPONIBLE"
     },
     {
       "id": "video-03",
